@@ -12,7 +12,7 @@
 <!--
 [🏋🏼‍♂️42cursus](https://github.com/fmesa-or/42cursusprogress)
 -->
-<a href='https://github.com/fmesa-or/42cursusprogress' target="_blank"><img alt='Progress' src='https://catedratelefonicauma.es/wp-content/uploads/2023/02/8marzo_mujer_42malaga_23_cabecera_logo-845x321.png' height="180" /></a>
+<a href='https://github.com/fmesa-or/42cursusprogress' target="_blank"><img alt='Progress' src='https://catedratelefonicauma.es/wp-content/uploads/2023/02/8marzo_mujer_42malaga_23_cabecera_logo-845x321.png' height="178" /></a>
 </a>
 <br>
 <br>
