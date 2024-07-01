@@ -19,10 +19,10 @@
 
 ## ▪️ Contact me 📥
 
-<a href='mailto:fmesa-or@student.42malaga.com' target="_blank"><img alt='Email' src=''/></a>
+<a href='mailto:fmesa-or@student.42malaga.com' target="_blank"><img alt='Email' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail2020.logo.png/640px-Gmail2020.logo.png' height="40" /></a>
 </a>
 
-<a href='https://www.linkedin.com/in/fmesa-or/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='https://www.linkedin.com/in/fmesa-or/' target="_blank"><img alt='Linkedin' src='https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg' height="40" /></a>
 </a>
 <!--
 **fmesa-or/fmesa-or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
