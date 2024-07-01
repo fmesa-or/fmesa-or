@@ -4,13 +4,15 @@
     <img src="https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp" alt="Mitical GIF of Ewan McGregor saying Hello There in his role of Obi Wan" style="display:block; margin:0 auto;" width="25%">
 </p>
 
-## ▪️ Currently I'm a student at [42 Málaga](https://www.42malaga.com/) 📚🖥🧐
+## ▪️ I am currently studying [42 Málaga](https://www.42malaga.com/) 📚🖥🧐
 
 [![fmesa-or's 42 stats](https://badge.mediaplus.ma/binary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## ▪️ Progress
 
 ◦ [🏋🏼‍♂️42cursus](https://github.com)
+<br>
+<br>
 
 <!-- ## ▪️ Stats
 -->
