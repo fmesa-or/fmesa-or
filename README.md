@@ -1,4 +1,8 @@
-<h1 align="> Hello there </h1>
+# <p align="center">Hello There</p>
+
+<p align="center">
+    <img src="https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp" alt="Mitical GIF of Ewan McGregor saying Hello There in his role of Obi Wan" style="display:block; margin:0 auto;" width="25%">
+</p>
 
 ## ▪️ Currently I'm a student at [42 Málaga](https://www.42malaga.com/) 📚🖥🧐
 
