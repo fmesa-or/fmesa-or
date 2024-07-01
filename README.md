@@ -2,15 +2,15 @@
 
 ## ▪️ Currently I'm a student at [42 Málaga](https://www.42malaga.com/) 📚🖥🧐
 
-[![fmesa-or's 42 stats](https://badge.mediaplus.ma/greenbinary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fmesa-or's 42 stats](https://badge.mediaplus.ma/binary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## ▪️ Progress
 
 ◦ [🏋🏼‍♂️42cursus](https://github.com)
 
-## ▪️ Stats
-
-![fmesa-or GitHub stats](https://github-readme-stats.vercel.app/api?username=fmesa-or&theme=tokyonight)
+<!-- ## ▪️ Stats
+-->
+![fmesa-or GitHub stats](https://github-readme-stats.vercel.app/api?username=fmesa-or&theme=tokyonight&show_icons=true)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmesa&layout=donut&theme=tokyonight)
 
