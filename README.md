@@ -6,7 +6,7 @@
 
 ## ▪️ I am currently studying at [42 Málaga](https://www.42malaga.com/) 📚🖥🧐
 
-[![fmesa-or's 42 stats](https://badge.mediaplus.ma/binary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fmesa-or's 42 stats (If you see this I'm on frezee)](https://badge.mediaplus.ma/binary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## ▪️ My progress
 <!--
