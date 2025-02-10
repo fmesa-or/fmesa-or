@@ -24,7 +24,7 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmesa&layout=donut&theme=tokyonight)
 
 ## ▪️ Tech Stack
-<img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Unix Shell" height="40"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
+<img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Unix Shell" height="40"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="40" />
 
 ## ▪️ Contact me 📥
 
