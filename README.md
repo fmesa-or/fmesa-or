@@ -6,7 +6,7 @@
 
 ## ▪️ I am currently studying at [42 Málaga](https://www.42malaga.com/) and also DAM at [CESUR](https://www.cesurformacion.com/fp/desarrollo-de-aplicaciones-multiplataforma)📚🖥🧐
 
-[![fmesa-or's 42 stats (If you see this I'm on frezee)](https://badge.mediaplus.ma/binary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fmesa-or's 42 stats (If you see this I'm on lvl 4)](https://badge.mediaplus.ma/binary/fmesa-or?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## ▪️ My progress
 <!--
@@ -31,8 +31,11 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmesa&layout=donut&theme=tokyonight)
 
 ## ▪️ Tech Stack
-<img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Unix Shell" height="40"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40"/>  <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40"/>
+### 2+ years:
+<img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Unix Shell" height="40"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> 
 
+#### New With:
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40"/> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40"/>
 
 ## ▪️ Contact me 📥
 
