@@ -26,35 +26,33 @@
 
 <!-- ## ▪️ Stats
 -->
+
+### ▪️ STATS
+ <a href="https://github.com/fmesa-or">
+    <img src="https://github-trophies.vercel.app/?username=antonimodev&theme=monokai&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=1&column=6&margin-w=5&margin-h=5" alt="Trofeos"/>
+    <br>
+    <img src="https://github-trophies.vercel.app/?username=antonimodev&theme=monokai&no-bg=true&no-frame=true&rank=SECRET&file=1&column=4&margin-w=5&margin-h=5" alt="Trofeos secretos"/>
+</a>
+
+<!-- NOT WORKING PROPERLY: Need to find new stats and language view
 ![fmesa-or GitHub stats](https://github-readme-stats.vercel.app/api?username=fmesa-or&theme=tokyonight&show_icons=true)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmesa&layout=donut&theme=tokyonight)
+-->
+
 
 ## ▪️ Tech Stack
 ### 2+ years:
 <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Unix Shell" height="40"/> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> 
 
 #### New With:
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40"/> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="40" /> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" height="40"/> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Java" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png?_=20210422185554" alt="C++ 98" height="40"/>
 
 ## ▪️ Contact me 📥
 
-<a href='mailto:franciscomesaempleo@gmail.com' target="_blank"><img alt='Email' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail2020.logo.png/640px-Gmail2020.logo.png' height="40" /></a>
+<a href='mailto:franciscomesaempleo@gmail.com' target="_blank"><img alt='Email' src='https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png' height="40" /></a>
 </a>
 
 <a href='https://www.linkedin.com/in/fmesa-or/' target="_blank"><img alt='Linkedin' src='https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg' height="40" /></a>
 </a>
-<!--
-**fmesa-or/fmesa-or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
